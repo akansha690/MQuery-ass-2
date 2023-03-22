@@ -1,0 +1,60 @@
+
+/* ..........From 0px to 912px......... */
+
+@media screen and (max-width:912px) {
+
+    .list {
+        display: none;
+    }
+
+    .navbar img {
+        display: block;
+        height: 30px;
+        width: 30px;
+        margin: 20px;
+
+    }
+
+    .left {
+        font-size: 1.6rem;
+        margin-top: 8px;
+        text-align: center;
+    }
+
+
+    .left img {
+        height: 57px;
+        width: 60px;
+    }
+
+    .hello {
+        display: block;
+
+    }
+
+
+    .right {
+
+        height: 339px;
+        margin-top: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .right img {
+        height: 313px;
+    width: 221px;
+    }
+
+    .section-2 {
+        margin-top: 269px;
+
+    }
+
+    .container {
+        display: block;
+    }
+
+   
+}
